@@ -1,0 +1,19 @@
+///Components Used:
+1. Arduino Uno
+2. Ultrasonic Sensor
+3. Servo Motor
+4. Breadboard
+5. Jumper Wires
+
+
+///Circuit Connection Details:
+
+   #  Ultrasonic Sensor to Arduino:
+Trigger Pin: Connects to Digital Pin 6 on the Arduino.
+Echo Pin: Connects to Digital Pin 7 on the Arduino.
+Vcc: Connects to 5V on the Arduino.
+Gnd: Connects to Gnd on the Arduino.
+Servo Motor to Arduino:
+Control Signal (Orange wire): Connects to Digital Pin 9 on the Arduino.
+Vcc (Red wire): Connects to 5V on the Arduino.
+GND of Servo Motor (Black) to GND
